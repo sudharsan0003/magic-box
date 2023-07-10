@@ -26,7 +26,7 @@ span {
   border-radius: 6px;
   cursor: pointer;
 }
-.button-.button-magic {
+.button-magic:active {
   transform: translateY(-4px);
 }
 .boxes-all {
